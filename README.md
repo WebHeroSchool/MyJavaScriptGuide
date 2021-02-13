@@ -5,10 +5,13 @@
 
 **Правельно**
 
+```
 let userName = "Vika";
 let userAge = " 25";
+```
 
 **Не правельно**
-
+```
 let imja = "Vika";
 let 1Let = "25";
+```
